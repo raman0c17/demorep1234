@@ -1,2 +1,3 @@
 data of second file
 Added another line
+third line

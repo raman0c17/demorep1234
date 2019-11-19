@@ -1,1 +1,2 @@
 This is the data of file
+This is amendement in first file
